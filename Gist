@@ -1,0 +1,5 @@
+public class{
+  static main(String args[]){
+  System.out.println("Am here bro");
+  }
+}
